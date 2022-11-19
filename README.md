@@ -1,12 +1,6 @@
-# Remix Blues Stack
+# Personal Website -- Remix Version
 
-![The Remix Blues Stack](https://repository-images.githubusercontent.com/461012689/37d5bd8b-fa9c-4ab0-893c-f0a199d5012d)
-
-Learn more about [Remix Stacks](https://remix.run/stacks).
-
-```
-npx create-remix@latest --template remix-run/blues-stack
-```
+This is yet another version of my personal website. It's based on [Remix Router](https://remix.run/), a new framework for full-stack web apps using React.
 
 ## What's in the stack
 
